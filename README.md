@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muffinsama
+- 👋 Hi, I’m Ayush
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
